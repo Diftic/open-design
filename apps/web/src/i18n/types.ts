@@ -467,6 +467,7 @@ export interface Dict {
   'designFiles.sectionImages': string;
   'designFiles.sectionSketches': string;
   'designFiles.sectionOther': string;
+  'designFiles.showMore': string;
   'designFiles.kindHtml': string;
   'designFiles.kindImage': string;
   'designFiles.kindSketch': string;

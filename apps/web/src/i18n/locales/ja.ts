@@ -450,6 +450,7 @@ export const ja: Dict = {
   'designFiles.sectionImages': '画像',
   'designFiles.sectionSketches': 'スケッチ',
   'designFiles.sectionOther': 'その他',
+  'designFiles.showMore': 'さらに {n} 件表示',
   'designFiles.kindHtml': 'HTML ページ',
   'designFiles.kindImage': '画像',
   'designFiles.kindSketch': 'スケッチ',
